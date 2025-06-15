@@ -6,7 +6,7 @@
 
 ## 🌱 Hakkımda
 - 27 yaşında, İstanbul merkezli bir Backend Developer’ım.
-- Tutkuyla **Clean Code**, **Design Patterns** ve **Microservice archtecture** üzerine çalışırım.
+- 🔧 **Clean Code**’in disiplinini, 🛡️ **Design Patterns**’ın zarafetini ve 🌐 **Microservice Architecture**’ın ölçeklenebilir gücünü bir arada harmanlayarak; sürdürülebilir, esnek ve kusursuz sistemler tasarlarım.
 - Yeni projeler geliştirip, ileride burada paylaşmayı planlıyorum.
 
 ---
